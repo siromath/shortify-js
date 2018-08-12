@@ -1,0 +1,24 @@
+{
+  "name": "shortify-js",
+  "version": "0.1.0",
+  "description": "You can write JavaScript shorter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "shortify",
+    "shortify-js"
+  ],
+  "author": "siromath",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siromath/shortify-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siromath/shortify-js/issues"
+  },
+  "homepage": "https://github.com/siromath/shortify-js#readme"
+}
